@@ -1,0 +1,4 @@
+devices:
+  "client": "greenhouse.ece.utexas.edu"
+  "server": "johnson.ece.utexas.edu"
+server: "server"
